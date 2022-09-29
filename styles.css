@@ -1,0 +1,35 @@
+
+
+body {
+    text-align: center;
+    margin-top: 20px;
+    background-image: url("yarn.jpeg");
+    background-size: cover;
+    height: 100vh;
+    font-family:  'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container-fluid {
+    background-color: #DBFCFF;
+    max-width: 50%;
+    margin: auto;
+    margin-top: 150px;
+}
+
+#count-el {
+    margin: 30px auto 30px auto;
+}
+
+#increment-btn {
+    margin-bottom: 10px;
+}
+
+#save-btn {
+     width: 140px;
+     margin-bottom: 10px;
+}
+
+#entries-el {
+    font-weight: bold;
+}
+
